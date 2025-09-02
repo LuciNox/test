@@ -69,6 +69,8 @@ DELETE /answers/{id} — удалить ответ
 
 4. Поднять контейнер с базой
 
+> docker pull postgres
+
 > cd app
 
 > docker compose up -d
